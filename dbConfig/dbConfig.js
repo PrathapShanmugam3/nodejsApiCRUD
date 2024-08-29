@@ -1,10 +1,13 @@
 module.exports={
     dev:{
-        HOST:"localhost",
-        USER:"root",
-        PASSWORD:"root",
-        DATABASE:"nodeapp",
-        PORT:3306
+        HOST:"anime-anime.j.aivencloud.com",
+        USER:"avnadmin",
+        PASSWORD:"AVNS_hQt7_7Q_WZ3Ei-iyHOP",
+        DATABASE:"defaultdb",
+        PORT:18595
 
     }
 }
+
+
+//mysql://avnadmin:AVNS_hQt7_7Q_WZ3Ei-iyHOP@anime-anime.j.aivencloud.com:18595/defaultdb?ssl-mode=REQUIRED
